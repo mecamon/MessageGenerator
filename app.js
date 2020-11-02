@@ -9,4 +9,7 @@ const randomItems = [
     {name: 'Neptune', info: 'Neptune is the most distant planet from the Sun.'},
 ];
 
-consoleloog('Ramdon')
+const randomNumber = Math.floor(Math.random() * 8);
+
+console.log(`\nPLANET: ${randomItems[randomNumber].name}`);
+console.log(`INFO: ${randomItems[randomNumber].info}`);
