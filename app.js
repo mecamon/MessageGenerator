@@ -9,3 +9,4 @@ const randomItems = [
     {name: 'Neptune', info: 'Neptune is the most distant planet from the Sun.'},
 ];
 
+consoleloog('Ramdon')
