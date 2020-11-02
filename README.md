@@ -31,4 +31,4 @@ For now, the only function is generate the name of a planet and some info about 
 
 ## Project status
 
-Just started!
+Info to be used stored.
